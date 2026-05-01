@@ -28,6 +28,8 @@ This pattern is called RAG (Retrieval-Augmented Generation) and it's how most pr
 
 **Backend** — FastAPI, Python, ChromaDB, sentence-transformers, SQLite, JWT auth
 
+testing pr
+
 **Frontend** — React, TypeScript, Vite, Tailwind CSS
 
 **AI** — Google Gemini API
